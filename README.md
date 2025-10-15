@@ -1,4 +1,4 @@
-# 🕵️ Homicides in the USA — Power BI Dashboard (1980 – 2014)
+# 🕵️ Homicides in the USA - (1980 – 2014)
 
 This project presents a **comprehensive Power BI dashboard** analyzing homicide data in the United States between **1980 and 2014**.  
 It provides deep insights into victim and perpetrator profiles, locations, weapons used, and overall national trends over three decades.
